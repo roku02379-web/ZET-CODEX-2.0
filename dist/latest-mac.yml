@@ -1,0 +1,11 @@
+version: 1.0.0
+files:
+  - url: ZET-CODEX-1.0.0-arm64-mac.zip
+    sha512: bRfThjTMll12Tco8sVMWS2r1XEKAJ5AkbbVCb00mTeFxMSjO+gvm+t+f2rJAccr49EWPgC92pn/OZlBJfGejTw==
+    size: 273845601
+  - url: ZET-CODEX-1.0.0-arm64.dmg
+    sha512: /C6x2ysOrnAYqTz4m3D6ont2tgBgsFIUUu/fV44dw2f9Vl7Sj3HPm3GLCCMsOsTD4EeS3GMjAKrPsDsZSIdTcA==
+    size: 273728570
+path: ZET-CODEX-1.0.0-arm64-mac.zip
+sha512: bRfThjTMll12Tco8sVMWS2r1XEKAJ5AkbbVCb00mTeFxMSjO+gvm+t+f2rJAccr49EWPgC92pn/OZlBJfGejTw==
+releaseDate: '2026-10-18T15:20:35.007Z'

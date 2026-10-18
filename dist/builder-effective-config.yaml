@@ -1,0 +1,13 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.zetcodex.app
+productName: ZET CODEX
+win:
+  target: nsis
+files:
+  - filter:
+      - dist/**/*
+      - electron.js
+      - package.json
+electronVersion: 44.8.0
